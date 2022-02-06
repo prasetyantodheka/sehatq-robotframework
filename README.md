@@ -13,4 +13,4 @@ robot .\androidtest.robot
 robot --variable env:prod --outputdir report/ .\TestSuite\LoginSuite.robot
 
 
-note : please change the value for email and password before you run the test
+note : please change all value on config file before you run the test
