@@ -11,3 +11,6 @@ robot .\androidtest.robot
 ***command to run for POM***
  
 robot --variable env:prod --outputdir report/ .\TestSuite\LoginSuite.robot
+
+
+note : please change the value for email and password before you run the test
