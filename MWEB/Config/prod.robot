@@ -7,8 +7,8 @@ Library           BuiltIn
 *** Variable ***
 ${BROWSER}                  chrome
 ${URL}                      sehatq.com
-${EMAIL LOGIN}              dhekapektoy@gmail.com
-${PASSWORD LOGIN}           Vimmal14
+${EMAIL LOGIN}              yourmain@mail.com
+${PASSWORD LOGIN}           yourpassword
 ${NAME}                     pras
 ${DOB}                      05 Juli 1992
 ${GENDER}                   Laki-laki
