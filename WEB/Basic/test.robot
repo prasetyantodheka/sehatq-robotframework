@@ -4,8 +4,8 @@ Library           SeleniumLibrary
 *** Variables ***
 ${URL}            https://sehatq.com/
 ${BROWSER}        firefox
-${EMAIL}          dhekapektoy@gmail.com
-${PASSWORD}       Vimmal14
+${EMAIL}          yourmail@mail.com
+${PASSWORD}       yourpassword
 ${SEHATQ LOGO}    xpath=//img[@alt="SehatQ"]
 
 *** Test Cases ***
