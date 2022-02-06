@@ -8,5 +8,6 @@ https://docs.google.com/document/d/1dp2LTX0j-pQqEZAzc0WLVUxI937jP959qIOldeq0SIk/
 
 robot .\androidtest.robot
 
-***command to run for POM*** 
+***command to run for POM***
+ 
 robot --variable env:prod --outputdir report/ .\TestSuite\LoginSuite.robot
